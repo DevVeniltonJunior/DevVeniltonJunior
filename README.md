@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <!-- Bloco de Redes Sociais -->
 
 ## Sobre Mim
-- 🏭 Atualmente estágiando como desenvolvedor Full-stack.
+- 🏭 Atualmente como desenvolvedor Full-stack na Melow.
 - 🌱 Estudo constante para acompanhar as nova técnologias.
 - 🏫 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na UNITAU.
 
